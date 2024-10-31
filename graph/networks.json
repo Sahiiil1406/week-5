@@ -1,0 +1,8 @@
+{
+  "sepolia": {
+    "Purchase": {
+      "address": "0x28a578292bBE18337E3052Be376B069776aC40F2",
+      "startBlock": 0
+    }
+  }
+}

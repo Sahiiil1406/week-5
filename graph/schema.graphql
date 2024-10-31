@@ -1,0 +1,8 @@
+type StudentAdded @entity(immutable: true) {
+  id: Bytes!
+  name: String! # string
+  Purchase_id: BigInt! # uint256
+  blockNumber: BigInt!
+  blockTimestamp: BigInt!
+  transactionHash: Bytes!
+}
